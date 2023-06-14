@@ -1,0 +1,77 @@
+/*
+  |============================
+  | Base Style
+  |============================
+*/
+
+body {
+    background-color: #1E1E1E;
+    color: beige;
+    box-shadow: inset 4px 4px 4px rgba(0, 0, 0, 0.25), inset -4px -4px 4px rgba(0, 0, 0, 0.25);
+
+
+}
+
+
+li {
+    list-style: none;
+}
+
+.container {
+    width: 1280px;
+}
+
+/*
+  |============================
+  | HEADER
+  |============================
+*/
+
+.header {}
+
+.container-header {
+    display: flex;
+
+}
+
+.-header-logo {}
+
+.header-list {}
+
+.header-list-item {}
+
+.link-email {}
+
+/*
+  |============================
+  | HERO
+  |============================
+*/
+
+.hero {}
+
+.container-hero {}
+
+.hero-img {
+    width: 100%;
+}
+
+.hero-header {}
+
+/*
+  |============================
+  | GAME-NEWS
+  |============================
+*/
+
+.game-news {}
+
+.container-game-news {}
+
+.game-news-header {}
+
+.game-news-list {}
+
+.game-news-list-item {}
+
+.game-news-list-link {}
